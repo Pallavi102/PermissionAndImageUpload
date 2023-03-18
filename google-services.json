@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603006098597",
+    "project_id": "permissionandimageupload",
+    "storage_bucket": "permissionandimageupload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603006098597:android:4828afa9c0f1333a68414c",
+        "android_client_info": {
+          "package_name": "com.pallavi.permissionandimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603006098597-cbrfa5qm90g93o4lcboqh2cs81d9mgq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-mK6RWleMUFtdlBa1zdWKpVaPZ4GfChY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603006098597-cbrfa5qm90g93o4lcboqh2cs81d9mgq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
